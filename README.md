@@ -16,14 +16,21 @@ Proyecto 1: Breve descripción del proyecto y enlace al repositorio.
 Proyecto 2: Breve descripción del proyecto y enlace al repositorio.
 ...
 ## 🛠️ Habilidades
-HTML, CSS, JavaScript
-React, Redux
-Node.js, Express
-Tailwind CSS
-Sequelize, PostgreSQL
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Redux
+* Node.js
+* Express
+* Tailwind CSS
+* Sequelize
+* PostgreSQL
 
 ## 📫 Contacto
-LinkedIn
+
+<a href="www.linkedin.com/in/lautaro-bunkowski" target="blank">LinkedIn</a>
 Twitter
 Gracias por visitar mi perfil. ¡Estoy ansioso por nuevas colaboraciones y oportunidades de aprendizaje!
 
