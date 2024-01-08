@@ -24,7 +24,7 @@ Creamos en equipo un ecommerce de venta online de videojuegos físicos y digital
   <br/>
 Pokedex realizado con React, contiene paginado, filtros, ordenamiento del lado del front, busqueda por nombre exacto y creación de Pokémon con formulario controlado, trabajo en conjunto con la Api PokeApi para la recopilación de datos, el apartado de estilos se realizo con Modules CSS
 
-<a href="https://pokedex-spa.vercel.app/" target="blank"><img align="center" src="https://pokedex-spa.vercel.app/static/media/International_Pok%C3%A9mon_logo.f8768d642a53585587f3.png" style="object-fit: cover; width:40px; height:40px"/>Pokedex</a>
+<a href="https://pokedex-spa.vercel.app/" target="blank"><img align="center" src="https://pokedex-spa.vercel.app/static/media/International_Pok%C3%A9mon_logo.f8768d642a53585587f3.png" style="object-fit: cover; width:100px; height:100px"/>Pokedex</a>
 <br/>
 ...
 ## 🛠️ Habilidades
