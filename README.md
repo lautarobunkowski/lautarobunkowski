@@ -1,27 +1,28 @@
-👋 Hola, soy [Tu Nombre]
+## 👋 Hola, soy Lautaro Bunkowski.
 ¡Bienvenido a mi perfil de GitHub!
 
-🎓 Sobre Mí
+## 🎓 Sobre Mí
 Soy un apasionado desarrollador Full Stack, graduado del bootcamp SOY HENRY con la modalidad part-time. Durante mi experiencia en el bootcamp, adquirí conocimientos sólidos en diversas tecnologías web modernas, formándome como un desarrollador versátil y capaz de enfrentar desafíos complejos.
 
-🚀 Background
+## 🚀 Background
 Mi formación en el bootcamp SOY HENRY me ha proporcionado una base sólida en:
 
 Desarrollo Frontend y Backend
 Tecnologías como HTML, CSS, JavaScript, React, Tailwind CSS, Redux, Node.js, Express, Sequelize y PostgreSQL.
 Estoy emocionado por aplicar estos conocimientos en proyectos desafiantes y seguir aprendiendo cada día.
 
-🌟 Proyectos Destacados
+## 🌟 Proyectos Destacados
 Proyecto 1: Breve descripción del proyecto y enlace al repositorio.
 Proyecto 2: Breve descripción del proyecto y enlace al repositorio.
 ...
-🛠️ Habilidades
+## 🛠️ Habilidades
 HTML, CSS, JavaScript
 React, Redux
 Node.js, Express
 Tailwind CSS
 Sequelize, PostgreSQL
-📫 Contacto
+
+## 📫 Contacto
 LinkedIn
 Twitter
 Gracias por visitar mi perfil. ¡Estoy ansioso por nuevas colaboraciones y oportunidades de aprendizaje!
