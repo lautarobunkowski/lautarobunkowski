@@ -17,7 +17,7 @@ Estoy emocionado por aplicar estos conocimientos en proyectos desafiantes y segu
   <br/>
 Creamos en equipo un ecommerce de venta online de videojuegos físicos y digitales con diferentes plataformas a elegir, implementamos la metodología Ágil SCRUM con Sprints semanales y Dailys 3 veces por semana, puestos a prueba para trabajar en Equipo completamos con éxito los requisitos del proyecto
 
-<a href="https://gameworldeccomerce.vercel.app/" target="blank"><img align="center" src="https://gameworldeccomerce.vercel.app/assets/logo-708f2337.png" style="object-fit: contain; width:40px; height:40px margin-right:10px;" />GameWorld</a>
+<a href="https://gameworldeccomerce.vercel.app/" target="blank"><img align="center" src="https://gameworldeccomerce.vercel.app/assets/logo-708f2337.png" style="object-fit: cover; width:40px; height:40px margin-right:10px;" />GameWorld</a>
 <br/>
 
 * Pokedex
