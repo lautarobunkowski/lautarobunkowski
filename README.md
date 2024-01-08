@@ -31,7 +31,8 @@ Proyecto 2: Breve descripción del proyecto y enlace al repositorio.
 ## 📫 Contacto
 
 <a href="www.linkedin.com/in/lautaro-bunkowski" target="blank">LinkedIn</a>
-Twitter
+<br/>
+
 Gracias por visitar mi perfil. ¡Estoy ansioso por nuevas colaboraciones y oportunidades de aprendizaje!
 
 <!--
